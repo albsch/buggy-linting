@@ -1,0 +1,16 @@
+{"1.2.0",
+[{<<"prometheus">>,{pkg,<<"prometheus">>,<<"4.8.2">>},1},
+ {<<"prometheus_process_collector">>,
+  {pkg,<<"prometheus_process_collector">>,<<"1.6.0">>},
+  0},
+ {<<"quantile_estimator">>,{pkg,<<"quantile_estimator">>,<<"0.2.1">>},2}]}.
+[
+{pkg_hash,[
+ {<<"prometheus">>, <<"B88F24279DD7A1F512CB090595FF6C88B50AAD0A6B394A4C4983725723DCD834">>},
+ {<<"prometheus_process_collector">>, <<"B169E224337497CD858DA16F9361EDABC5931B9D12201A97EE15D88EF5A6FCAA">>},
+ {<<"quantile_estimator">>, <<"EF50A361F11B5F26B5F16D0696E46A9E4661756492C981F7B2229EF42FF1CD15">>}]},
+{pkg_hash_ext,[
+ {<<"prometheus">>, <<"C3ABD6521E52CEC4F0D8ECA603CF214DFC84D8A27AA85946639F1424B8554D98">>},
+ {<<"prometheus_process_collector">>, <<"E9CD9846F204DE7A04863F56308D8D1193BEC714210BF6374D9D4FC088D2896D">>},
+ {<<"quantile_estimator">>, <<"282A8A323CA2A845C9E6F787D166348F776C1D4A41EDE63046D72D422E3DA946">>}]}
+].
