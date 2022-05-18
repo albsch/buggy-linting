@@ -1,0 +1,9 @@
+{application, buggyb,
+ [{description, "A buggy library for Erlang"},
+  {vsn, "0.0.1"},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {licenses, ["Apache 2.0"]}
+ ]}.
